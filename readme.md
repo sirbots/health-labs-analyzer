@@ -4,4 +4,4 @@ Whenver my doctor runs a lab test, I get the results in a PDF. This is annoying 
 
 But I'd like to be able to see how the data changes over time.
 
-So I'm working on extracting data from PDFs to be able to manipulate and visualize it with Python.
+So I'm working on extracting health lab data from PDFs to be able to manipulate and visualize it with Python.
